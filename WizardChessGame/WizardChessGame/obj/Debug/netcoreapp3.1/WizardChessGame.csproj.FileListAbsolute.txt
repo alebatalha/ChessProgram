@@ -1,0 +1,14 @@
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.csproj.AssemblyReference.cache
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.AssemblyInfoInputs.cache
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.AssemblyInfo.cs
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.csproj.CoreCompileInputs.cache
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.exe
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.deps.json
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.runtimeconfig.json
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.runtimeconfig.dev.json
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.dll
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\bin\Debug\netcoreapp3.1\WizardChessGame.pdb
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.dll
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.pdb
+C:\Users\merba\OneDrive\Documentos\DBS YEAR 2\SOFTWARE ENGINEERING\Wizard Chess\WizardChessGame\WizardChessGame\obj\Debug\netcoreapp3.1\WizardChessGame.genruntimeconfig.cache
